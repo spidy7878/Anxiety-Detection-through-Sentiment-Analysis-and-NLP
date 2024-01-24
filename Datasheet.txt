@@ -1,0 +1,4 @@
+The databases used are:
+
+https://www.kaggle.com/gargmanas/sentimental-analysis-for-tweets
+https://www.kaggle.com/kazanova/sentiment140
